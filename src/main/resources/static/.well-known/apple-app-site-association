@@ -1,0 +1,26 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "7CCVQK733K.com.keeron.keeronMobile"
+        ],
+        "paths": [
+          "/payment/*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "7CCVQK733K.com.keeron.keeronMobile"
+    ]
+  }
+}
+
